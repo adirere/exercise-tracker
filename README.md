@@ -1,5 +1,7 @@
 # Exercise Tracker REST API
 
+Project page: [click here](https://glitch.com/~fcc-exercise-tracker-adi)
+
 #### A microservice project, part of Free Code Camp's curriculum
 
 ### User Stories
